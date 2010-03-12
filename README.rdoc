@@ -5,7 +5,7 @@ Mobile Fu allows you to do just that.  People can access your site from a Palm,
 Blackberry, iPhone, Nokia, etc. and it will automatically adjust the format of
 the request from :html to :mobile.  
 
-== Usage
+== My Usage
 
 Add this this one line to the controller.
 
